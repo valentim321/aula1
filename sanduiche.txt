@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>sanduíche natural de frango</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<header> Aprenda a fazer o melhor sanduíche natural de frango</header>
+		
+        
+    <h1>ingredientes</h1> 
+      
+    <ul>
+            <li>2 fatias de pão integral</li>
+
+            <li>2 colheres de sopa de cream cheese</li>
+        
+            <li>4 colheres de sopa de frango cozido, desfiado e temperado</li>
+        
+            <li>2 colheres de cenoura ralada</li>
+        
+            <li>2 folhas de alface</li>
+     </ul>
+
+     <h1>Modo de preparo</h1>
+     
+     <ol> 
+        
+        <li>Para começar, espalhe o cream cheese nas duas fatias de pão.
+          
+            <li> Em uma das fatias, espalhe a cenoura ralada também.</li>
+          
+             <li>  Tempere a cenoura com limão, azeite e sal.</li>
+
+             <li>  Coloque o frango desfiado por cima da cenoura.</li>
+
+             <li> Cubra o frango com a alface e tempere novamente.</li>
+
+            <li>   Coloque a outra fatia de pão por cima.</li>
+
+          <p> Agora é só servir. Bom apetite.</p>
+     </ol>
+
+
+		<p>Obrigado pela visita!</p>
+		<p>Você é o visitante número 1234.</p>
+	</body>
+</html>
